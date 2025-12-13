@@ -35,11 +35,11 @@ It uses **SharedPreferences** for offline storage, so all your data stays on you
 ---
 
 
-## 📱 Screenshot
+## 📱 Screenshots
 
-
-<img src="screenshots/Home.png" alt="Home Screen" width="400"/>
-
+<div style="display: flex; gap: 20px;">
+  <img src="screenshots/Home.png" alt="Home Screen" width="300"/>
+</div>
 
 ## 🚀 How to Run This Project on Your PC
 
@@ -78,6 +78,3 @@ flutter run
 
 **Shehan Hasantha**
 Beginner Flutter Developer
-
----
-
