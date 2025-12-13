@@ -37,9 +37,9 @@ It uses **SharedPreferences** for offline storage, so all your data stays on you
 
 ## 📱 Screenshot
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/Home.png)
 
-<img src="screenshots/home.png" alt="Home Screen" width="600"/>
+<img src="screenshots/Home.png" alt="Home Screen" width="600"/>
 
 
 ## 🚀 How to Run This Project on Your PC
