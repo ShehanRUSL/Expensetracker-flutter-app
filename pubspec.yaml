@@ -1,0 +1,33 @@
+name: expense_tracker   # <- app name shown under the icon
+description: "A simple Flutter Expense Tracker app."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/hasa.png
+    - assets/gradient_bg.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/hasa.png"                       # foreground icon
+  adaptive_icon_background: "assets/gradient_bg.png"  # background for adaptive icon
