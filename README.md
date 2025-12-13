@@ -34,26 +34,13 @@ It uses **SharedPreferences** for offline storage, so all your data stays on you
 
 ---
 
+
 ## 📱 Screenshot
 
-```
-
-screenshots/
-└── home.png
-
-````
-
-Add the screenshot in README:
-
-```md
-![Home Screen](screenshots/home.png)
-````
-
-**Preview:**
-
 ![Home Screen](screenshots/home.png)
 
----
+<img src="screenshots/home.png" alt="Home Screen" width="600"/>
+
 
 ## 🚀 How to Run This Project on Your PC
 
