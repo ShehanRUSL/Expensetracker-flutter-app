@@ -1,4 +1,4 @@
-# 💸 Expense Tracker – Flutter App
+#  Expense Tracker – Flutter App
 
 **Expense Tracker** is a simple Flutter mobile app to help you track daily expenses easily.  
 It uses **SharedPreferences** for offline storage, so all your data stays on your device.
@@ -57,8 +57,6 @@ cd Expensetracker-flutter-app
 flutter pub get
 flutter run
 ```
-
----
 
 ## 🔒 Data Storage
 
